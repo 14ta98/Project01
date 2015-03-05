@@ -1,6 +1,7 @@
 /*フォント*/
 
 body {
+    color: #333333;
     font-family: sans-serif;
 }
 
@@ -9,7 +10,7 @@ body {
 
 form {
 	padding: 20px;
-	background-color: #697990;
+	background-color: #B7483C;
 }
 
 form p {
@@ -25,4 +26,9 @@ label {
 }
 
 
+/*ボタン*/
+
+.button {
+	margin-left: 14px;
+}
 

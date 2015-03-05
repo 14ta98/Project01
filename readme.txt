@@ -14,6 +14,7 @@ HTMLとCSSをのみで内容を書き込む部分と送信ボタンがあるシ�
 
 
 ［コーディングルール］
+
 CSSの優先度を記述。
 位置情報系＝position, top, right, z-index, display, float
 サイズ＝width, height, padding, margin
